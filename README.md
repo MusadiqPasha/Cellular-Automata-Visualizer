@@ -39,12 +39,15 @@ each demonstrating distinct rules and behaviors for cellular automata.
   
 ## Cellular Automata Rules
 ### 1. **Amoeba**
+- Generates organic, amoeba-like growths and contractions.
 - Simulates dynamic and organic growth patterns.
 - Rules are tailored to produce self-sustaining patterns.
+
 
 <img src='https://github.com/MusadiqPasha/Cellular-Automata-Visualizer/blob/main/ca%20demo/amoeba.gif'>
 
 ### 2. **Brian's Brain**
+- Produces glowing wave-like patterns that resemble firing neurons.
 - Each cell has three states: **On** (blue), **Dying** (red), and **Off** (white).
 - Rules:
   - **Off** → **On** if exactly two neighbors are "On."
@@ -64,13 +67,15 @@ each demonstrating distinct rules and behaviors for cellular automata.
  <img src='https://github.com/MusadiqPasha/Cellular-Automata-Visualizer/blob/main/ca%20demo/Game%20of%20Life.gif'>
 
 ### 4. **Larger Than Life**
-- A generalized cellular automaton with custom survival and birth rules.
-- Each cell can be **On** (black) or **Off** (blue).
-- Rules:
-  - **Off** → **On** if surrounded by 2-3 "On" neighbors.
-  - **On** → **Off** if surrounded by fewer than 2 or more than 3 "On" neighbors.
+
+- Behavior: Creates large, intricate patterns.
+- A generalization of Conway's rules, allowing larger neighborhoods.
+- Birth: A dead cell (0) turns "on" (1) if it has 3, 4, 5, 6, 7, or 8 neighbors that are "on."
+- Survival: An "on" cell (1) remains "on" if it has 3, 4, 5, 6, 7, or 8 neighbors that are "on."
+- Death: All other cells turn "off."
+
  
-  <img src='https://github.com/MusadiqPasha/Cellular-Automata-Visualizer/blob/main/ca%20demo/Larger_than_life.gif'>
+<img src='https://github.com/MusadiqPasha/Cellular-Automata-Visualizer/blob/main/ca%20demo/Larger_than_life.gif'>
 
 ## Installation
 1. Download and install [Processing](https://processing.org/) [use Python Mode]
