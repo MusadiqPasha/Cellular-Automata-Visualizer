@@ -1,7 +1,7 @@
 # Cellular-Automata-Visualizer
 It is a collection of interactive simulations for various cellular automata models, including Amoeba, Game of Life, and more. It provides real-time visualization of the grid evolution, allowing users to explore different patterns and behaviors of these automata.
 
-# Cellular Automata Games
+## Cellular Automata Games
 
 A collection of cellular automata simulations implemented using [Processing.org](https://processing.org/). To run the project, make sure to use Python mode in Processing for proper execution and visualization of grid evolution.
 
@@ -43,6 +43,8 @@ each demonstrating distinct rules and behaviors for cellular automata.
 ### 1. **Amoeba**
 - Simulates dynamic and organic growth patterns.
 - Rules are tailored to produce self-sustaining patterns.
+
+<img src='https://github.com/MusadiqPasha/Cellular-Automata-Visualizer/blob/main/ca%20demo/amoeba.gif'>
 
 ### 2. **Brian's Brain**
 - Each cell has three states: **On** (blue), **Dying** (red), and **Off** (white).
