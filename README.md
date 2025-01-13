@@ -53,6 +53,8 @@ each demonstrating distinct rules and behaviors for cellular automata.
   - **On** → **Dying** in the next step.
   - **Dying** → **Off** in the subsequent step.
 
+<img src='https://github.com/MusadiqPasha/Cellular-Automata-Visualizer/blob/main/ca%20demo/Brains_Brain.gif'>
+
 ### 3. **Game of Life**
 - A classic cellular automaton invented by John Conway.
 - Each cell can be **Alive** (black) or **Dead** (white).
