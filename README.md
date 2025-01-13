@@ -63,12 +63,16 @@ each demonstrating distinct rules and behaviors for cellular automata.
   - **Alive** → **Dead** if it has fewer than two or more than three live neighbors.
   - **Alive** → **Alive** if it has two or three live neighbors.
 
+ <img src='https://github.com/MusadiqPasha/Cellular-Automata-Visualizer/blob/main/ca%20demo/Game%20of%20Life.gif'>
+
 ### 4. **Larger Than Life**
 - A generalized cellular automaton with custom survival and birth rules.
 - Each cell can be **On** (black) or **Off** (blue).
 - Rules:
   - **Off** → **On** if surrounded by 2-3 "On" neighbors.
   - **On** → **Off** if surrounded by fewer than 2 or more than 3 "On" neighbors.
+ 
+  <img src='https://github.com/MusadiqPasha/Cellular-Automata-Visualizer/blob/main/ca%20demo/Larger_than_life.gif'>
 
 ## Installation
 1. Download and install [Processing](https://processing.org/) [use Python Mode]
