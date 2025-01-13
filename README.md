@@ -1,8 +1,6 @@
 # Cellular-Automata-Visualizer
 This is a collection of interactive simulations for various cellular automata models, including Amoeba, Game of Life, and more. It provides real-time visualization of the grid evolution, allowing users to explore different patterns and behaviors of these automata.
 
-## Cellular Automata Games
-
 A collection of cellular automata simulations implemented using [Processing.org](https://processing.org/). To run the project, make sure to use Python mode in Processing for proper execution and visualization of grid evolution.
 
 This project features four unique games: 
