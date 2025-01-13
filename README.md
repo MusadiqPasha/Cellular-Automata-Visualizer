@@ -11,7 +11,7 @@ This project features four unique games:
 - **Brian's Brain**
 - **Game of Life**
 - **Larger Than Life**
-- 
+  
 each demonstrating distinct rules and behaviors for cellular automata.
 
 ## Features
@@ -30,11 +30,11 @@ each demonstrating distinct rules and behaviors for cellular automata.
 
 ## Color Representation
 
-# Default States:
+### Default States:
 - Blue: "Off" or inactive.
 - White: Neutral or empty state.
   
-# Dynamic States:
+### Dynamic States:
 - Yellow: Cells being compared or in transition.
 - Red: Cells marked for change (e.g., "Dying").
 - Black: Cells in an active state (e.g., "On").
